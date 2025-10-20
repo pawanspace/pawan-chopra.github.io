@@ -1,4 +1,4 @@
-# pawan-chopra.github.io
+# pawanspace.github.io
 
 - 👋 Hi, I’m Pawan
 - 👀 I’m interested in coaching, mentoring, programming!
